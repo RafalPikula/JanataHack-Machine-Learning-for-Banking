@@ -4,7 +4,7 @@ We present a summary of the outcome of taking part in a hackathon organized by A
 
 Here is the link to the competition website: https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking/#ProblemStatement
 
-## Approach - Concise Description
+## Approach Summary
 
 We split our work into two Jupyter notebooks. The first notebook is devoted to the exploratory data analysis of both original and engineered features. The second one contains the actual data preparation and model training. 
 
