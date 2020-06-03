@@ -4,9 +4,9 @@ This project summarizes the outcome of taking part in a hackathon organized by A
 
 Here is the link to the competition website: https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking/#ProblemStatement
 
-## Project Description
+## Approach - Concise Description
 
-The Jupyter notebooks are numbered for easier navigation. The first notebook is devoted to the exploratory data analysis of both original and engineered features. The second one contains the actual data preparation and model training. 
+We split our work into two Jupyter notebooks. The first notebook is devoted to the exploratory data analysis of both original and engineered features. The second one contains the actual data preparation and model training. 
 
 In the first notebook we look at the data and note that we are given 14 columns and 164309 observations to work with. We determine the columns with missing data, compute simple statistics of both categorical and numeric variables, and visualize the distribution of our variables (as well as certain conditional distributions). We also spend some time deriving new features (by both analyzing the available data and, whenever applicable, utilizing a semi-automated feature engineering procedure) and visualizing them.
 
