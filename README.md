@@ -2,7 +2,7 @@
 
 We present a summary of the outcome of taking part in a hackathon organized by Analytics Vidhya (under the name JanataHack: Machine Learning for Banking) in which the participants, given loan applicants data, were to determine the loan rate category (out of 3 different categories). On the officially binding private leaderboard our best model secured the position in the top **4.7%** of the participants.
 
-Here is the link to the competition website: https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking/#ProblemStatement
+Here is the link to the competition website: https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking
 
 ## Approach Summary
 
